@@ -16,5 +16,6 @@ angular
     'ngSanitize',
     'ngTouch',
     'ui.grid',
-    'ui.grid.edit'
+    'ui.grid.edit',
+    'haymant.angular-multisel-cell'
   ]);
