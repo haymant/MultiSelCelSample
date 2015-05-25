@@ -1,9 +1,11 @@
 # git
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
-
+This is a sample project to use multiple selection dropdown editor in ui-grid
 ## Build & development
+
+Install dependencies:
+1. npm install
+2. bower install
 
 Run `grunt` for building and `grunt serve` for preview.
 
